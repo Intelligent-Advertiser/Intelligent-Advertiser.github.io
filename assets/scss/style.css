@@ -41,7 +41,7 @@
 .timeline ul li div {
   position: relative;
   bottom: 0;
-  width: 400px;
+  width: 540px;
   padding: 20px;
   background: #fff;
   -webkit-box-shadow: 4px 13px 30px 1px rgba(252, 56, 56, 0.2);
@@ -58,7 +58,7 @@
 .timeline ul li div time {
   position: absolute;
   background: #5419f5;
-  width: 80px;
+  width: 200px;
   height: 30px;
   top: -15px;
   border-radius: 5px;
@@ -113,7 +113,7 @@
 }
 
 .timeline ul li:nth-of-type(even) > div {
-  left: -439px;
+  left: -550px;
 }
 
 .timeline ul li div {
