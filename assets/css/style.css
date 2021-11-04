@@ -6205,7 +6205,6 @@ select:visited {
   background: linear-gradient(-45deg, #ff0000 0%, #f86969 100%);
 }
 
-/* new card styles */
 .nio-dia-service-innerbox-card:before {
   background: linear-gradient(-45deg, #ff7b00 0%, #f86969 100%) !important;
 }
